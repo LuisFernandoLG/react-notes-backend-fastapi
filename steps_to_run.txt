@@ -1,0 +1,6 @@
+1- Seleccionar el ambiente virtual (env).
+# source env/Scripts/activate
+
+
+2- Correr el servidor uvicorn
+# uvicorn main:app --reload
